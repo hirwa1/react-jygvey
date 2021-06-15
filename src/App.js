@@ -5,7 +5,7 @@ export default function App() {
   return (
     <div>
       <h1>I AM Hirwa!</h1>
-      <p>Start editing to see some magic happen :)</p>
+      <p>I am your REact Js Developer</p>
     </div>
   );
 }
